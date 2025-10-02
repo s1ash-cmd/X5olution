@@ -116,4 +116,3 @@ uvicorn main:app --reload --port 8000
 ## Лицензия
 
 - Базовая модель: [DeepPavlov/rubert-base-cased](https://huggingface.co/DeepPavlov/rubert-base-cased)
-- Код в данном репозитории распространяется по лицензии MIT (или укажите иную при необходимости).
